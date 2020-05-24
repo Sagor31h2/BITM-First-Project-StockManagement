@@ -1,0 +1,18 @@
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+E:\CSE LAB\Visual C#\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+G:\Project\StockManagementSystemApp2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+F:\idm\Compressed\project with database 19july\project with database 19july\project 19.7.2019\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
